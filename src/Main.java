@@ -12,5 +12,7 @@ public class Main {
         System.out.println("I figured this shit out!");
 
         System.out.println("NEW TEST");
+
+        System.out.println("OKOKOKOK");
     }
 }
